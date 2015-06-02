@@ -1,6 +1,14 @@
-#Flask Boilerplate (w/ React and Gulp)
+# Flask Boilerplate (w/ React and Gulp)
 
-A simple boilerplate app of flask using react and gulp.
+A simple boilerplate of a Flask app using Reactjs and Gulp.
 
-Will add more to docs as I decide on what defaults should be.
+Super basic at the moment. Need to update gulp file to handle multiple components. As is, only transforms main.jsx -> main.js
 
+
+#### Quick Instructions
+bower install
+npm install
+python pip install -r requirements.txt
+
+In top level folder run: gulp
+python project/app.py

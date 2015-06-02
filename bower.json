@@ -1,0 +1,20 @@
+{
+  "name": "flask-react-starter",
+  "version": "0.0.0",
+  "authors": [
+    "nick weinberg <nickweinberg90@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "concise": "~2.1.0",
+    "jQuery": "~2.1.4"
+  }
+}
